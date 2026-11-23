@@ -1,8 +1,9 @@
 # Hi, I'm Sammy Mwaniki 👋
 
-**AI Data Trainer & Full-Stack Software Engineer** · Nairobi, Kenya
-
-I train and evaluate AI models (RLHF, response ranking, code review), and I build software end to end: **web apps, back-end APIs, mobile apps and computer-vision models**. Most of my projects solve real business problems, from running a phone case shop to booking car repairs.
+I am a technology enthusiast, software developer, and entrepreneur based in Nairobi, Kenya. I have a strong passion for technology, innovation, problem-solving, and building solutions that make everyday life easier.
+I have a background in software development, with experience working with technologies such as JavaScript, TypeScript, Node.js, Python, SQL, and React. I enjoy developing backend systems, building APIs, working with databases, and exploring how artificial intelligence can improve software development and business operations.
+Beyond software engineering, I am interested in artificial intelligence, machine learning, cybersecurity, business development, and digital entrepreneurship. I enjoy exploring new ideas, learning emerging technologies, and turning concepts into practical projects.
+I also have an entrepreneurial mindset and an interest in building and growing businesses, particularly in technology, e-commerce, and digital services.
 
 ## 🛠️ Skills
 
